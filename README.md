@@ -1,6 +1,6 @@
 <!-- GitHub Profile Banner -->
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="Hi, I'm Kalyan Katwal" width="100%" />
+  <img src="https://github.com/k-a-l/k-a-l/blob/main/A_3D-rendered_GitHub_profile_introduction_graphic_.png" alt="Hi, I'm Kalyan Katwal" width="100%" />
 </p>
 
 <div align="center">
