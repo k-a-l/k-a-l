@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## 🌐 Socials:
+## 🌐 Socials
   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kalyan_katwal_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalyan-katwal-a6272526a/) 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 <!-- Stack Badges -->
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -68,7 +68,7 @@
 
 <div align="center">
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=k-a-l&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=k-a-l&theme=dark&hide_border=false)<br/>
@@ -85,6 +85,7 @@
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
 
 ### 🔝 Top Contributed Repo
 
