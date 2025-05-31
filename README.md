@@ -95,4 +95,10 @@
 [![](https://visitcount.itsvg.in/api?id=k-a-l&icon=5&color=2)](https://visitcount.itsvg.in)
 
 </div>
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/k-a-l/k-a-l/output/github-snake.svg" alt="GitHub Snake Animation">
+</p>
+
 
